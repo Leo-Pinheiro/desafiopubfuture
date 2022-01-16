@@ -1,0 +1,7 @@
+body {
+    margin:0;
+    font-family:Arial;
+    background-color: green;
+    background-image: url("../imagens/imagemenu.jpg");
+    background-size: 100%;
+}

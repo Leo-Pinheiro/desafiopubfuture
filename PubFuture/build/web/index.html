@@ -1,0 +1,50 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" href="styles/menustyle.css">
+        <link rel="icon" type="image/favicon" href="imagens/favicon.ico" />
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <title>Pub Future</title>
+    </head>
+    <body>
+          <div class="topnav" id="myTopnav">
+            <div class="active">                 
+                <a href="home.jsp"  target="janela_prog">Home <i class="fa fa-solid fa-house-user"></i></a> 
+            </div>
+            <div class="dropdown">
+                <button class="dropbtn">Contas <i class="fa fa-solid fa-caret-down"></i></button>
+                <div class="dropdown-content">
+                    <a href="cadastraconta.jsp" target="janela_prog">Cadastrar Contas</a>
+                </div>
+            </div>
+                 <div class="dropdown">
+                <button class="dropbtn">Despesas <i class="fa fa-solid fa-caret-down"></i></button>
+                <div class="dropdown-content">
+                    <a href="cadastradespesas.jsp" target="janela_prog">Cadastrar Despesas</a>
+                </div>
+                 </div>
+              
+                 <div class="dropdown">
+                <button class="dropbtn">Receitas <i class="fa fa-solid fa-caret-down"></i></button>
+                
+                <div class="dropdown-content">
+                    <a href="cadastrareceitas.jsp" target="janela_prog">Cadastrar Receitas</a>
+                </div>
+               </div>
+              <div class="dropdown">
+                <button class="dropbtn"> Listar <i class="fa fa-caret-down"></i></button>
+                <div class="dropdown-content">
+                    <a href="consultacontas.jsp" target="janela_prog">Contas</a>
+                    <a href="consultadespesas.jsp" target="janela_prog">Despesas</a>
+                    <a href="consultareceitas.jsp" target="janela_prog">Receitas</a>                     
+          </div>
+          </div>
+          </div>     
+              <div class="main">
+                 <iframe name="janela_prog" src="home.jsp" element.mozRequestFullScreen()></iframe>
+          </div>
+        
+    </body>
+    
+</html>
