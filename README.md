@@ -34,7 +34,7 @@ Como rodar o Projeto:
 6- escolha o servidor tom cat.
 7- logo em seguida, clique em browse e vá onde está sua pasta do servidor
 8- Feito isso escreva idle em username e passaword.
-9- Agora vá em Projects e veja se nas libraries tem PostgresSQL JDBC Driver, se tiver está tudo pronto e pode rodar o projeto, se não, basta só adicionar ela. 
+9- Agora vá em Projects e veja nas libraries se tem PostgresSQL JDBC Driver, se tiver está tudo pronto e pode rodar o projeto, se não, basta só adicionar ela. 
 
 Espero que você tem conseguido rodar meu projeto com sucesso. Obrigado
 
