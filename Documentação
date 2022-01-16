@@ -1,0 +1,109 @@
+    Página Inicial
+         
+         Menu Superior
+         - Home (Página Inicial)
+         - Contas
+         - Despesas
+         - Receitas
+         
+       Cadastrar Contas
+       
+          - Você pode cadastrar uma conta indo em contas que irá aparecer para cadastrar conta por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido.
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Conta salva com Sucesso".
+          - Se você cancelar irá voltar a página inicial.
+          
+      Cadastrar Despesas
+          
+          - Você pode cadastrar uma despesa indo em despesas que irá aparecer para cadastrar despesa por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - Quando você for no campo de selecionar o número da conta o número irá aparecer como ponto de interrogação, porém ele vai cadastrar normalmente, na lista o número da conta está correto.
+          - Se você não tiver nenhuma conta cadastrada, basta clicar na opção "Cadastrar Conta".
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido.
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Despesa salva com Sucesso".
+          - Se você cancelar irá voltar a página inicial.
+          
+      Cadastrar Receitas
+          
+          - Você pode cadastrar uma receita indo em receitas que irá aparecer para cadastrar receita por meio de um menu dropdown.
+          - Dentro da página de cadastro, você pode escrever as informações nos campos.
+          - Quando você for no campo de selecionar o número da conta o número irá aparecer como ponto de interrogação, porém ele vai cadastrar normalmente, na lista o número da conta está correto.
+          - Se você não tiver nenhuma conta cadastrada, basta clicar na opção "Cadastrar Conta"
+          - Você tem opção de salvar e cancelar
+          - Você não irá conseguir salvar se tiver algum campo não preenchido.
+          - Se você salvar irá aparecer lá no canto superior esquerdo "Receita salva com Sucesso".
+          - Se você cancelar irá voltar a página inicial.
+
+    Listar Contas
+         
+         - Contém todas as contas cadastradas.
+         - Você tem opção de editar e excluir.
+         
+    Listar Despesas
+    
+         - Contém todas as despesas cadastradas.
+         - Você tem opção de editar e excluir.
+         
+    Listar Receitas
+         
+         - Contém todas as receitas cadastradas.
+         - Você tem opção de editar e excluir.
+         
+    Editar Contas
+    
+         - Para acessar a página de editar basta ir no lápis azul da lista de contas.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+         
+     Editar Despesas
+         
+         - Para acessar a página de editar basta ir no lápis azul da lista de contas.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Se você for alterar o número da conta os outros números da conta estão em branco, porém se você escolher esse espaço em branco, irá editar normalmente o número da conta.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+         
+     Editar Receitas  
+          
+         - Para acessar a página de editar basta ir no lápis azul da lista de contas.
+         - Na página de editar, você pode alterar todos os campos cadastrados.
+         - Se você for alterar o número da conta os outros números da conta estão em branco, porém se você escolher esse espaço em branco, irá editar normalmente o número da conta.
+         - Você tem opção de salvar e cancelar 
+         - Se você salvar irá voltar para página da lista com o cadastramento editado.
+         - Se você cancelar irá voltar para página da lista sem nenhum cadastramento editado.
+       
+      Excluir Contas
+      
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem " Confirma a exclusão do Registro? ".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.
+          
+       Excluir Despesas
+       
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem " Confirma a exclusão do Registro? ".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.
+          
+        Excluir Receitas
+        
+          - Para excluir você tem que clicar na lixeira vermelha.
+          - Quando você clicar irá aparecer a seguinte mensagem " Confirma a exclusão do Registro? ".
+          - Você tem duas opções "sim" e "não".
+          - Se você clicar em "sim" todo seu cadastramento será excluido.
+          - Se você clicar em "não" irá voltar a página da lista.
+          
+         
+         
+          
+          
+      
